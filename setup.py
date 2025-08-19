@@ -54,13 +54,13 @@ setup(
     },
     entry_points={
         "console_scripts": [
-            "ps-ds-monitor=ps_ds_monitor:main",
+            "ps-ds-monitor=ps-ds-monitor:main",
         ],
     },
     keywords="process monitor system status ps unix cross-platform",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/ps-ds-monitor/issues",
-        "Source": "https://github.com/yourusername/ps-ds-monitor",
-        "Documentation": "https://github.com/yourusername/ps-ds-monitor#readme",
+        "Bug Reports": "https://github.com/adamgrange/ps-ds-monitor/issues",
+        "Source": "https://github.com/adamgrange/ps-ds-monitor",
+        "Documentation": "https://github.com/adamgrange/ps-ds-monitor#readme",
     },
 )
