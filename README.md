@@ -157,8 +157,8 @@ python -m pytest tests/
 
 ### Code Formatting
 ```bash
-black ps_ds_monitor.py
-flake8 ps_ds_monitor.py
+black ps-ds-monitor.py
+flake8 ps-ds-monitor.py
 ```
 
 ## License
