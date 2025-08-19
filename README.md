@@ -29,19 +29,19 @@ A cross-platform process and system status monitoring tool that provides compreh
 
 ### Quick Start (No Dependencies)
 ```bash
-git clone https://github.com/yourusername/ps-ds-monitor.git
+git clone https://github.com/adamgrange/ps-ds-monitor.git
 cd ps-ds-monitor
-python ps_ds_monitor.py
+python ps-ds-monitor.py
 ```
 
 ### Enhanced Installation (Recommended)
 For better performance and more detailed information:
 
 ```bash
-git clone https://github.com/yourusername/ps-ds-monitor.git
+git clone https://github.com/adamgrange/ps-ds-monitor.git
 cd ps-ds-monitor
 pip install -r requirements.txt
-python ps_ds_monitor.py
+python ps-ds-monitor.py
 ```
 
 ### Package Installation
@@ -56,7 +56,7 @@ ps-ds-monitor
 Run the program and use the interactive menu:
 
 ```bash
-python ps_ds_monitor.py
+python ps-ds-monitor.py
 ```
 
 Menu options:
@@ -69,16 +69,16 @@ Menu options:
 ### Command Line Usage
 ```bash
 # View process status
-python ps_ds_monitor.py --ps
+python ps-ds-monitor.py --ps
 
 # View system status
-python ps_ds_monitor.py --ds
+python ps-ds-monitor.py --ds
 
 # View both
-python ps_ds_monitor.py --both
+python ps-ds-monitor.py --both
 
 # Limit number of processes shown
-python ps_ds_monitor.py --ps --limit 10
+python ps-ds-monitor.py --ps --limit 10
 ```
 
 ## Example Output
@@ -163,7 +163,7 @@ flake8 ps_ds_monitor.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the (LICENSE) file for details.
 
 ## Changelog
 
