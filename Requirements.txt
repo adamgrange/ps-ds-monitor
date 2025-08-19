@@ -1,0 +1,12 @@
+# PS & DS System Monitor Requirements
+# Optional but recommended for enhanced functionality
+
+# Enhanced system and process information
+psutil>=5.8.0
+
+# Development dependencies (optional)
+# Uncomment for development work:
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.9.0
+# mypy>=0.812
